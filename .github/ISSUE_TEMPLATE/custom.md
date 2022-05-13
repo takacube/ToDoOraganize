@@ -1,7 +1,7 @@
 ---
 name: ToDo template for Uni
 about: See .github/ISSUE_TEMPLATE/custom.md
-title:  "[DATE]:[FEATURE NAME]"
+title:  ":mortar_board:[FEATURE NAME]"
 labels: 'Top, Uni'
 projects: 'takacube/ToDoOraganize'
 assignees: 'takacube'

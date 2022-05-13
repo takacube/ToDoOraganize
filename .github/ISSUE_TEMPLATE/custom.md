@@ -1,17 +1,20 @@
 ---
 name: ToDo template
 about: See .github/ISSUE_TEMPLATE/custom.md
-title:  "[DATE]: [FEATURE NAME]"
+title:  "[DATE]: [FEATURE NAME] : [Priority]"
 labels: 'ToDo'
-projects: 'kaitas/ToDo'
-assignees: 'kaitas'
+projects: 'takakube/ToDoOrganize'
+assignees: 'takanao'
 
 ---
 
 
 ## Description
 
-1. To
-2. Do
+- [ ]やることの詳細
+- [ ]
 
-- [ ] 
+## Priority
+1
+2
+3
